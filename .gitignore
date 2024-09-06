@@ -1,13 +1,2 @@
-# MATLAB binary files
-*.mex*
-*.p
-
-# MATLAB code files backup
-*.asv
-
-# MATLAB figure files
-*.fig
-
-# MATLAB workspace files
-*.mat
-*.mlappinstall
+# MATLAB 
+*.m
